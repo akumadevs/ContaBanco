@@ -1,0 +1,32 @@
+# Projeto ContaBanco
+
+Este projeto consiste em um sistema que permite gerenciar informações de contas bancárias através de entrada de dados pelo terminal.
+
+## Funcionalidades
+
+O programa solicita ao usuário as seguintes informações:
+
+- Número da conta (exemplo: 1021)
+- Agência (exemplo: 067-8)
+- Nome do Cliente (exemplo: MARIO ANDRADE)
+- Saldo (exemplo: 237.48)
+
+Após a inserção dos dados, o sistema exibe uma mensagem formatada com as informações fornecidas.
+
+## Estrutura do Projeto
+
+- **src/**
+  - `ContaTerminal.java`: Classe principal que contém a lógica para receber os dados e exibir a mensagem final.
+
+## Requisitos
+
+- Lógica de programação e POO
+- Conhecimentos básicos em Java
+- Computador com SO de sua preferência (Windows, Linux, Mac OS)
+- IDE (Visual Studio Code, Eclipse, etc)
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/ContaBanco.git
